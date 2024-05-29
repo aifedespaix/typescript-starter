@@ -1,4 +1,4 @@
-Typescript 
-Node (commonjs)
-eslint
-Prettier
+- Typescript 
+- Node (commonjs)
+- eslint
+- Prettier
